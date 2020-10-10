@@ -1,4 +1,5 @@
 ### Aggregation
+
 Aggregation is a term which is used to refer one way relationship between two objects.In OOP, aggregation represents HAS-A relationship, which means when a class contains reference of another class known to have aggregation.
 The HAS-A relationship is based on usage, rather than inheritance. When an object A contains a reference to another object B or we can say Object A has a HAS-A relationship with Object B, then it is termed as Aggregation.
 
